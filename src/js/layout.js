@@ -9,6 +9,7 @@ import { Characters } from "./component/characters";
 import { Planets } from "./component/planets";
 import { Vehicles } from "./component/vehicles";
 import injectContext from "./store/appContext";
+import { planetsPt2 } from "./views/planetspt2";
 
 import { Navbar } from "./component/navbar";
 import { Footer } from "./component/footer";

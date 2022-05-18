@@ -26,6 +26,8 @@ export const Single = props => {
 					Back home
 				</span>
 			</Link>
+			<h1 className="display-5"> {data.name}</h1>
+			
 		</div>
 	);
 };
