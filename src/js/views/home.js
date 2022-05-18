@@ -26,6 +26,14 @@ export const Home = () =>{
 			)
 		})}
 		</div>
+
+		{/* <div className="d-flex overflow-auto">
+			{planets.length>0 && planets.map((item,index) => {
+
+
+			})}	
+
+		</div> */}
 		<Planets/>
 		<Vehicles/>
 	</div>
